@@ -122,9 +122,6 @@ Adjust the speech settings to customize your listening experience:
 - **Rate:**  
   Adjust the speech rate using the slider to increase or decrease the speaking speed.
 
-- **Volume:**  
-  Modify the volume level using the slider to set the desired loudness.
-
 ## Features and Functionalities
 
 ### 1. Support for Multiple File Formats:
@@ -142,7 +139,6 @@ Adjust the speech settings to customize your listening experience:
 
 - **Voice Selection:** Switch between different voices.
 - **Speech Rate:** Control the speed of the spoken text.
-- **Volume Control:** Set the volume level for playback.
 
 ### 4. Playback Controls:
 
@@ -205,12 +201,6 @@ Adjust the speech settings to customize your listening experience:
 - **Rate Adjustment:**  
   Sliders allow users to increase or decrease the speech rate for a comfortable listening speed.
 
-- **Volume Control:**  
-  Users can set the desired volume level for the speech output.
-
-## Screenshots
-
-*(Include screenshots of the application interface here)*
 
 ## Troubleshooting
 
